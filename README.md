@@ -50,9 +50,9 @@ Puedes clonar el repositorio usando el siguiente comando:
 git clone https://github.com/tu_usuario/tu_repositorio.git
 ```
 
-##Participantes
-   - Diaz Francisco
-   - Ibañez Pablo
-   - Lelli Fabrizio
-   - Silva Angel
+### Participantes
+   - 👦🏾 Diaz Francisco
+   - 🧑🏾 Ibañez Pablo
+   - 👴🏼 Lelli Fabrizio
+   - 🧔🏾 Silva Angel
 

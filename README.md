@@ -53,6 +53,6 @@ git clone https://github.com/tu_usuario/tu_repositorio.git
 ### Participantes
    - 👦🏾 Diaz Francisco
    - 🧑🏾 Ibañez Pablo
-   - 👴🏼 Lelli Fabrizio
+   - 👳🏽‍♂️ Lelli Fabrizio
    - 🧔🏾 Silva Angel
 

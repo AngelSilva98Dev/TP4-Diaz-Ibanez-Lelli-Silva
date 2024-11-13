@@ -51,8 +51,8 @@ git clone https://github.com/tu_usuario/tu_repositorio.git
 ```
 
 ##Participantes
-   - **Diaz Francisco
-   - **Ibañez Pablo
-   - **Lelli Fabrizio
-   - **Silva Angel
+   - Diaz Francisco
+   - Ibañez Pablo
+   - Lelli Fabrizio
+   - Silva Angel
 
